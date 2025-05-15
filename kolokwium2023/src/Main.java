@@ -1,4 +1,5 @@
 import java.util.List;
+//NIE DO SPRAWDZENIA NA + Z OOP !
 //zip -r nazwa_archiwum.zip katalog_do_spakowania
 public class Main {
     public static void main(String[] args) {
