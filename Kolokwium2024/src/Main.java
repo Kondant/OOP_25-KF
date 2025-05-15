@@ -1,6 +1,6 @@
 import java.time.LocalTime;
 import java.util.*;
-
+//DO SPRAWDZENIA NA PLUSY
 public class Main {
     public static void main(String[] args) {
         String filePath = "C:\\Users\\konra\\Desktop\\kolokwium1_2024\\strefy.csv";
