@@ -1,3 +1,3 @@
 # Programowanie Obiektowe 
-## svg
-Przykładowy projekt pokazujący pracę z fromatem grafiki wektorowej Scalable Vector Graphics
+
+Dodano wielowątkowosc i polączenia sieciowe na plusy
